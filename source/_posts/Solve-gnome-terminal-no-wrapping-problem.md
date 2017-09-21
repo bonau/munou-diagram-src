@@ -1,0 +1,10 @@
+---
+title: Solve gnome-terminal no wrapping problem
+tags: []
+date: 2012-01-12 17:05:00
+---
+
+<div class="separator" style="clear: both; text-align: center;">[![](http://2.bp.blogspot.com/-J37GkIV8Evw/Tw6hJGMxpcI/AAAAAAAADmo/qinicGRvJnU/s400/%25E8%259E%25A2%25E5%25B9%2595%25E6%2588%25AA%25E5%259C%2596%25E5%25AD%2598%25E7%2582%25BA+2012-01-12+16%253A59%253A51.png)](http://2.bp.blogspot.com/-J37GkIV8Evw/Tw6hJGMxpcI/AAAAAAAADmo/qinicGRvJnU/s1600/%25E8%259E%25A2%25E5%25B9%2595%25E6%2588%25AA%25E5%259C%2596%25E5%25AD%2598%25E7%2582%25BA+2012-01-12+16%253A59%253A51.png)</div><div class="separator" style="clear: both; text-align: left;"><span style="text-align: -webkit-auto;">
+</span></div><div class="separator" style="clear: both; text-align: left;"><span style="text-align: -webkit-auto;">You may notice that&nbsp;sometimes long commands doesn&#8217;t be wrapped when&nbsp;using bash in gnome-terminal. However, it&#8217;s considered to be a bug of gnome-terminal. the solution is pretty simple: use system default font! which is configurable in preference dialog.</span></div><div class="separator" style="clear: both; text-align: left;"><span style="text-align: -webkit-auto;">
+</span></div><div class="separator" style="clear: both; text-align: center;">[![](http://2.bp.blogspot.com/-NwSfvJbap9I/Tw6htkVOfKI/AAAAAAAADmw/MO4bectkhRE/s400/%25E8%259E%25A2%25E5%25B9%2595%25E6%2588%25AA%25E5%259C%2596%25E5%25AD%2598%25E7%2582%25BA+2012-01-12+17%253A02%253A15.png)](http://2.bp.blogspot.com/-NwSfvJbap9I/Tw6htkVOfKI/AAAAAAAADmw/MO4bectkhRE/s1600/%25E8%259E%25A2%25E5%25B9%2595%25E6%2588%25AA%25E5%259C%2596%25E5%25AD%2598%25E7%2582%25BA+2012-01-12+17%253A02%253A15.png)</div>
+<div class="blogger-post-footer">![](https://blogger.googleusercontent.com/tracker/7273332692755259172-5407999248321376007?l=polar-dev.blogspot.com)</div>
