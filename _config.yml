@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Munou Diagram
+subtitle: Let's munou!
 description:
-author: John Doe
-language:
-timezone:
+author: Shon Wang
+language: zh
+timezone: Asia/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://bonau.github.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
